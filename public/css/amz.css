@@ -1,0 +1,13 @@
+         :root {
+            /* --main-bg-color: #660066;
+    --main-pen-color: #330033;
+    --main-white-color: #ffffff;
+    --darken-1: #660060;
+    --darken-2: #660069;
+    --darken-3: #330030; */
+        }
+        
+        body {
+            font-family: 'Roboto', sans-serif;
+            min-height: 100%;
+        }

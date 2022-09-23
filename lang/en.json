@@ -1,0 +1,28 @@
+{
+    "The :attribute must contain at least one letter.": "The :attribute must contain at least one letter.",
+    "The :attribute must contain at least one number.": "The :attribute must contain at least one number.",
+    "The :attribute must contain at least one symbol.": "The :attribute must contain at least one symbol.",
+    "The :attribute must contain at least one uppercase and one lowercase letter.": "The :attribute must contain at least one uppercase and one lowercase letter.",
+    "The given :attribute has appeared in a data leak. Please choose a different :attribute.": "The given :attribute has appeared in a data leak. Please choose a different :attribute.",
+    "All": "All Tasks",
+    "finished": "finished Tasks",
+    "unfinished": "unfinished Tasks",
+    "project_name": "Project",
+    "task_amount": "Amounts",
+    "task_duedate": "Due Date",
+    "task_description": "Task",
+    "task_eval": "Evaluation",
+    "task_finished": "Done",
+    "action": "Control",
+    "task_new": "New Task",
+    "Task Edit": "Task Edit",
+    "Project_Name": "Project Name",
+    "taskdays": "days of Tasks",
+    "duedays": "Due Days",
+    "top 10 long Tasks": "top 10 long Tasks",
+
+    "Project Tasks": "Project Tasks Summaries",
+    "Charts Tasks": "Charts Tasks",
+    "task_dates": "Task Date Create / Update"
+
+}
